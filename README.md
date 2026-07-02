@@ -4,6 +4,8 @@
 
 <img src="Images/3_Interactive_Business_Insights_Dashboard.jpg" width="900">
 
+Interactive Power BI dashboard developed to analyse content popularity, subscriber behaviour, audience demographics, and platform engagement trends.
+
 ## Project Overview
 
 This project was completed as part of the Generation Australia Data Analytics Bootcamp.
@@ -296,29 +298,6 @@ Some of the business questions explored include:
 - Which audience segments should be targeted for future growth?
 
 ---
-
-## Files Included
-
-### Datasets
-- Movies.csv
-- Users.csv
-- Ratings_Dataset.csv
-- Cleaned datasets
-
-### Documentation
-- Data Cleaning and Validation Report
-- Data Quality Assessment Report
-- Database Schema Design Documentation
-- Sprint Deliverables
-- SQL Analysis Reports
-- Visualization Reports
-
-### Visualizations
-- Top Rated Movies
-- Genre Popularity
-- User Demographics
-- Subscription Analysis
-- Device Usage Analysis
 
 ### Dashboard
 - Final_Team1_StreamFlix_analysis.pbix
