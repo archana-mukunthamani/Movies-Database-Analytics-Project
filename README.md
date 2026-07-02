@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Images/Interactive_Business_Insights_Dashboard.png)
+![Dashboard](Images/3_Interactive_Business_Insights_Dashboard.jpg)
 
 ## Project Overview
 
@@ -140,7 +140,7 @@ Primary and Foreign Key relationships were implemented and validated.
 
 ### Entity Relationship Diagram
 
-
+![ERD](Images/Movies_Database_ERD.png)
 
 ---
 
