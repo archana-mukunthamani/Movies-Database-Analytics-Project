@@ -1,5 +1,9 @@
 # 🎬 Movies Database Analytics Project
 
+## Dashboard Preview
+
+![Dashboard](Images/Interactive_Business_Insights_Dashboard.png)
+
 ## Project Overview
 
 This project was completed as part of the Generation Australia Data Analytics Bootcamp.
@@ -27,7 +31,21 @@ Team members contributed across multiple areas including:
 This repository has been created separately to organize and showcase my learning outcomes, project artefacts, and contributions for portfolio purposes.
 
 ---
+## My Contributions
 
+Throughout this project, I contributed to the following activities:
+
+- Performed data cleaning and validation on the Movies dataset.
+- Conducted data quality assessments for the Users and Ratings datasets.
+- Reviewed database schema design and relationships.
+- Developed SQL queries for data validation and business analysis.
+- Contributed to Python-based data visualizations and interpretation of insights.
+- Prepared project documentation, reports, and sprint deliverables.
+- Coordinated sprint activities, task tracking, and team communication as Scrum Master.
+- Managed and organized project artefacts for portfolio presentation.
+- Contributed to business insights and recommendations based on analysis findings.
+
+---
 ## Business Scenario
 
 A streaming platform wanted to better understand:
@@ -53,6 +71,20 @@ The goal was to provide actionable insights that could help improve content acqu
 | Python | Data visualization |
 | Power BI | Dashboard development |
 | GitHub | Version control and project documentation |
+
+---
+## Skills Demonstrated
+
+- Data Cleaning & Validation
+- Data Quality Assessment
+- SQL Query Development
+- Relational Database Design
+- Data Visualization
+- Dashboard Development
+- Business Analysis
+- Data Storytelling
+- Agile Team Collaboration
+- GitHub Version Control
 
 ---
 
@@ -106,6 +138,10 @@ Designed a relational database structure containing:
 
 Primary and Foreign Key relationships were implemented and validated.
 
+### Entity Relationship Diagram
+
+
+
 ---
 
 ### 3. SQL Analysis
@@ -146,7 +182,13 @@ An interactive dashboard was created to present:
 - Business recommendations
 
 ---
+## Project Outcome
 
+The project successfully transformed raw movie streaming data into actionable business insights through data cleaning, database design, SQL analysis, Python visualizations, and interactive dashboard reporting.
+
+The findings provided recommendations related to content popularity, subscriber behaviour, audience demographics, and platform engagement trends that could support future business and content strategy decisions.
+
+---
 ## Repository Structure
 
 ```text
@@ -157,13 +199,14 @@ Movies-Database-Analytics-Project
 │   └── Processed
 │
 ├── Documents
+│   ├── Sprint1
+│   ├── Sprint2
+│   ├── Database_Design
+│   └── Reports
 │
 ├── Images
-│
 ├── PowerBI
-│
 ├── Python
-│
 └── SQL
 ```
 
