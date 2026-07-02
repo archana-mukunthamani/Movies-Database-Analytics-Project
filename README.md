@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Images/3_Interactive_Business_Insights_Dashboard.jpg)
+<img src="Images/3_Interactive_Business_Insights_Dashboard.jpg" width="900">
 
 ## Project Overview
 
@@ -41,7 +41,7 @@ Throughout this project, I contributed to the following activities:
 - Developed SQL queries for data validation and business analysis.
 - Contributed to Python-based data visualizations and interpretation of insights.
 - Prepared project documentation, reports, and sprint deliverables.
-- Coordinated sprint activities, task tracking, and team communication as Scrum Master.
+- Coordinated sprint planning, task tracking, progress updates, and team communication as Scrum Master.
 - Managed and organized project artefacts for portfolio presentation.
 - Contributed to business insights and recommendations based on analysis findings.
 
@@ -60,7 +60,16 @@ A streaming platform wanted to better understand:
 The goal was to provide actionable insights that could help improve content acquisition strategies and increase subscriber engagement.
 
 ---
+## Business Questions Addressed
 
+- Which movies receive the highest ratings?
+- Which genres are most popular among subscribers?
+- How do viewing patterns differ between Free and Subscriber users?
+- Which countries contribute the largest user base?
+- Which devices are most commonly used for streaming?
+- Which audience segments offer the greatest growth opportunities?
+
+---
 ## Technologies Used
 
 | Technology | Purpose |
@@ -140,7 +149,7 @@ Primary and Foreign Key relationships were implemented and validated.
 
 ### Entity Relationship Diagram
 
-![ERD](Images/Movies_Database_ERD.png)
+<img src="Images/Movies_Database_ERD.png" width="900">
 
 ---
 
@@ -184,9 +193,10 @@ An interactive dashboard was created to present:
 ---
 ## Project Outcome
 
+
 The project successfully transformed raw movie streaming data into actionable business insights through data cleaning, database design, SQL analysis, Python visualizations, and interactive dashboard reporting.
 
-The findings provided recommendations related to content popularity, subscriber behaviour, audience demographics, and platform engagement trends that could support future business and content strategy decisions.
+The analysis highlighted trends in content popularity, subscriber behaviour, audience demographics, and device usage, helping identify opportunities to improve content strategy, audience engagement, and subscription growth.
 
 ---
 ## Repository Structure
